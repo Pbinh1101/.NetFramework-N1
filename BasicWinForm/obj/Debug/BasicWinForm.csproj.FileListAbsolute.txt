@@ -1,0 +1,12 @@
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\bin\Debug\BasicWinForm.exe.config
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\bin\Debug\BasicWinForm.exe
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\bin\Debug\BasicWinForm.pdb
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.csproj.AssemblyReference.cache
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.frmmain.resources
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.Properties.Resources.resources
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.csproj.GenerateResource.cache
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.exe
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.pdb
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.User.resources
+C:\Users\Tom Cu\source\repos\Group1\BasicWinForm\obj\Debug\BasicWinForm.frmManagerUser.resources
